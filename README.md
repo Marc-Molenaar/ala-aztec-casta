@@ -10,4 +10,4 @@ Schoolproject ALA
     * Contact
     
 ### Live version
-[View live version](https://project.sjoerd69.com "Project Sjoerd69")
+[View live version](https://school.sjoerd69.com "Project Sjoerd69")
